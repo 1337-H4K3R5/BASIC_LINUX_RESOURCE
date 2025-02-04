@@ -67,8 +67,5 @@ Chapter 16: Automating Tasks with Job Scheduling
 
 Chapter 16: Automating Tasks with Job Scheduling
 
-
-
 10. Unit 10: Advanced Python Scripting
 
-Chapter 17: Python Scripting Basics for Hackers
